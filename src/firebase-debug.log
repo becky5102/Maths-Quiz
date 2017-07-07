@@ -1,0 +1,28 @@
+[debug] [2017-07-06T14:02:26.942Z] ----------------------------------------------------------------------
+[debug] [2017-07-06T14:02:26.945Z] Command:      C:\Program Files\nodejs\node.exe C:\Users\TrainingUser\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-07-06T14:02:26.945Z] CLI Version:  3.9.1
+[debug] [2017-07-06T14:02:26.945Z] Platform:     win32
+[debug] [2017-07-06T14:02:26.945Z] Node Version: v6.11.0
+[debug] [2017-07-06T14:02:26.946Z] Time:         Thu Jul 06 2017 15:02:26 GMT+0100 (GMT Summer Time)
+[debug] [2017-07-06T14:02:26.946Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-07-06T14:02:26.959Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-07-06T14:02:26.959Z] > authorizing via signed-in user
+[debug] [2017-07-06T14:02:26.962Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/maths-work-experience-a5ec0  
+ Thu Jul 06 2017 15:02:26 GMT+0100 (GMT Summer Time)
+[debug] [2017-07-06T14:02:28.019Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-06T14:02:28.020Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/maths-work-experience-a5ec0/tokens  
+ Thu Jul 06 2017 15:02:28 GMT+0100 (GMT Summer Time)
+[debug] [2017-07-06T14:02:28.845Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\TrainingUser\maths'...
+[info] 
+[debug] [2017-07-06T14:02:28.850Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/maths-work-experience-a5ec0  
+ Thu Jul 06 2017 15:02:28 GMT+0100 (GMT Summer Time)
+[debug] [2017-07-06T14:02:29.578Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-06T14:02:29.578Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/537518851400/clients/_:getWebAppConfig  
+ Thu Jul 06 2017 15:02:29 GMT+0100 (GMT Summer Time)
+[debug] [2017-07-06T14:02:30.102Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: app
+[info] +  hosting: Local server: http://localhost:5000
+
